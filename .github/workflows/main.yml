@@ -5,7 +5,7 @@ name: az ad sp create-for-rbac --name saruDB (sarusqlserver/saruDB)
                             --scopes /subscriptions/6c0f2b2a-819d-4eb0-acff-cd2ce6de4ff5/saruRG_1506
 /
 
-# Controls when the action will run. 
+#  --sdk-auth
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:

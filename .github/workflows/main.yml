@@ -2,7 +2,7 @@
 
 name: az ad sp create-for-rbac --name saruDB (sarusqlserver/saruDB)
  --role contributor \
-                            --scopes /subscriptions/6c0f2b2a-819d-4eb0-acff-cd2ce6de4ff5/saruRG_1506
+                            --scopes /subscriptions/6c0f2b2a-819d-4eb0-acff-cd2ce6de4ff5/resourceGroups/saruRG_1506
 /
 
 #  --sdk-auth
